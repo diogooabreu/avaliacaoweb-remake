@@ -1,0 +1,19 @@
+.primary-color {
+    background-image: linear-gradient(to left, rgb(0, 0, 0), rgb(26, 26, 94), rgb(81, 81, 223));
+}
+
+nav {
+    background-image: linear-gradient(to right, rgb(53, 53, 53), gray, white);
+    border-radius: 2em;
+    height: 4em;
+    text-align: center;
+    display: flex;
+}
+
+.menu-left {
+    flex-direction: row;
+}
+
+.title {
+    color: White;
+}
